@@ -107,13 +107,6 @@ Si GitHub bloquea el push por detección de secretos, asegúrate de haber **revo
 4. Envía PR describiendo cambios y riesgos.
 
 ────────────────────────────────────────────────────────────────
-◆ Licencia & Autor
-────────────────────────────────────────────────────────────────
-Autor: **daanielsss**  
-Repositorio: `Search-Dorks-AI`  
-Añade la licencia que prefieras (ej. MIT) en un archivo `LICENSE`.
-
-────────────────────────────────────────────────────────────────
 ╔════════════════════════════════════════════════════════════════╗
 ║   Nota: confirma que `.env` esté en .gitignore ANTES del push  ║
 ╚════════════════════════════════════════════════════════════════╝
